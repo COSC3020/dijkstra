@@ -6,7 +6,7 @@ Recall the pseudocode for Dijkstra's algorithm:
     - select the unmarked vertex $v$ with the lowest dist
     - mark $v$ with distance dist
     - for each edge $(v,w)$
-        - dist($w$) = min $\left($dist($w$), dist($v$) + weight of $(v, w)\right)$
+        - dist($w$) = min $\left(\textrm{dist}(w), \textrm{dist}(v) + \textrm{weight of }(v, w)\right)$
 
 Implement Dijkstra's algorithm. Start with the template I provided in `code.js`
 and test your new function. I have not provided any test code, but you can base
