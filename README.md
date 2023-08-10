@@ -17,5 +17,5 @@ to be the most efficient one!
 
 ## Runtime Analysis
 
-What is the big-$\Theta$ complexity of your implementation? Add your
+What is the big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
