@@ -1,3 +1,4 @@
-// eslint-disable-next-line no-unused-varsfunction dijkstra(graph, sourceNode) {
+// eslint-disable-next-line no-unused-vars
+function dijkstra(graph, sourceNode) {
     return [];
 }
